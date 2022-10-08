@@ -1,0 +1,15 @@
+Oct 08 2022 18:55:05 
+Имя: hard_generator, Аргументы: ([[['a'], 'b', 'c'], ['d', 'e', 'f', 'h', False], [[1, [2]], None]],) , {}
+Результат: <generator object hard_generator at 0x00000253A6EF05F0>Oct 08 2022 18:55:05 
+Имя: hard_generator, Аргументы: ([['a'], 'b', 'c'],) , {}
+Результат: <generator object hard_generator at 0x00000253A734A180>Oct 08 2022 18:55:05 
+Имя: hard_generator, Аргументы: (['a'],) , {}
+Результат: <generator object hard_generator at 0x00000253A734A260>Oct 08 2022 18:55:05 
+Имя: hard_generator, Аргументы: (['d', 'e', 'f', 'h', False],) , {}
+Результат: <generator object hard_generator at 0x00000253A734A180>Oct 08 2022 18:55:05 
+Имя: hard_generator, Аргументы: ([[1, [2]], None],) , {}
+Результат: <generator object hard_generator at 0x00000253A734A180>Oct 08 2022 18:55:05 
+Имя: hard_generator, Аргументы: ([1, [2]],) , {}
+Результат: <generator object hard_generator at 0x00000253A734A260>Oct 08 2022 18:55:05 
+Имя: hard_generator, Аргументы: ([2],) , {}
+Результат: <generator object hard_generator at 0x00000253A734A1F0>
